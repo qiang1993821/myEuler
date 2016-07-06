@@ -5,6 +5,8 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2016/7/5.
+ * 2520是最小的能够被1到10整除的数。
+ * 最小的能够被1到20整除的正数是多少？
  */
 public class EULER5 {
     public static void main(String[] args){

@@ -2,6 +2,8 @@ package EULER3;
 
 /**
  * Created by Administrator on 2016/7/4.
+ * 13195的所有质因数为5、7、13和29。
+ * 600851475143最大的质因数是多少？
  */
 public class EULER3 {
     public static void main(String[] args){

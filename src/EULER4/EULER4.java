@@ -2,6 +2,8 @@ package EULER4;
 
 /**
  * Created by Administrator on 2016/7/4.
+ * 回文数就是从前往后和从后往前读都一样的数。由两个2位数相乘得到的最大回文乘积是 9009 = 91 × 99。
+ * 找出由两个3位数相乘得到的最大回文乘积。
  */
 public class EULER4 {
     public static void main(String[] args){

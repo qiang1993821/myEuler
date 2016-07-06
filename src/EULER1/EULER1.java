@@ -2,6 +2,8 @@ package EULER1;
 
 /**
  * Created by Administrator on 2016/7/4.
+ * 如果我们列出10以内所有3或5的倍数，我们将得到3、5、6和9，这些数的和是23。
+ * 求1000以内所有3或5的倍数的和。
  */
 public class EULER1 {
     public static void main(String[] args){
