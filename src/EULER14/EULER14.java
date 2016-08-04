@@ -18,6 +18,8 @@ import java.util.Map;
  * 注： 序列开始生成后允许其中的项超过一百万。
  * 从999999开始遍历，遍历过的放入map，碰到就跳，时间复杂度O(n)
  * 碰到了一个问题，中间超出了int最大值，导致结果出错，以后注意。
+ * 妈的，应该是实例类不但占内存还很占时间，直接暴力遍历居然更快。。。。
+ * 事实证明时间复杂度低不一定快。。。注释中的代码更快。。。
  */
 public class EULER14 {
     public static void main(String[] args){
@@ -38,6 +40,37 @@ public class EULER14 {
                 max = point;
         }
         System.out.println("num:" + max.getValue() + ",length:" + max.getLength());
+//        int longest = 0;
+//        int terms = 0;
+//        int i;
+//        long j;
+//
+//        for (i = 1; i <= 1000000; i++)
+//        {
+//            j = i;
+//            int this_terms = 1;
+//
+//            while (j != 1)
+//            {
+//                this_terms++;
+//
+//                if (this_terms > terms)
+//                {
+//                    terms = this_terms;
+//                    longest = i;
+//                }
+//
+//                if (j % 2 == 0)
+//                {
+//                    j = j / 2;
+//                }
+//                else
+//                {
+//                    j = 3 * j + 1;
+//                }
+//            }
+//        }
+//        System.out.println("num:" + longest + ",length:" + terms);
         long end = System.currentTimeMillis();
         System.out.print("总用时:"+(end-start)+"毫秒");
     }
