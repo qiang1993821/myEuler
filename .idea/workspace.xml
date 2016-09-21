@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="651dc909-932e-4372-9a33-9ca54d0f85a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EULER22/EULER22.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EULER22/names.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/euler.iml" afterPath="$PROJECT_DIR$/euler.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EULER23/EULER23.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="euler.iws" />
@@ -43,22 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EULER22.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EULER22.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EULER22/EULER22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5959079" vertical-offset="463" max-vertical-offset="2047">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="808" max-vertical-offset="2047">
+              <caret line="40" column="50" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EULER21.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EULER21/EULER21.java">
+      <file leaf-file-name="EULER23.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EULER23/EULER23.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="668" max-vertical-offset="1196">
-              <caret line="44" column="50" selection-start-line="43" selection-start-column="8" selection-end-line="44" selection-end-column="50" />
-              <folding />
+            <state vertical-scroll-proportion="-0.3917275" vertical-offset="483" max-vertical-offset="1909">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1401#1410#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/EULER21/EULER21.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
         <option value="$PROJECT_DIR$/src/EULER22/EULER22.java" />
+        <option value="$PROJECT_DIR$/src/EULER23/EULER23.java" />
       </list>
     </option>
   </component>
@@ -191,7 +193,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="EULER23" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -366,32 +368,10 @@
       <recent name="E:\workspace\euler\src\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EULER22">
+  <component name="RunManager" selected="Application.EULER23">
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="euler" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="EULER19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="EULER19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="EULER19.EULER19" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -458,6 +438,28 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="EULER22.EULER22" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="euler" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EULER23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="EULER23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="EULER23.EULER23" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -717,18 +719,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.EULER19" />
-      <item index="2" class="java.lang.String" itemvalue="Application.EULER20" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EULER21" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EULER22" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EULER20" />
+      <item index="2" class="java.lang.String" itemvalue="Application.EULER21" />
+      <item index="3" class="java.lang.String" itemvalue="Application.EULER22" />
+      <item index="4" class="java.lang.String" itemvalue="Application.EULER23" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.EULER22" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EULER21" />
-        <item index="3" class="java.lang.String" itemvalue="Application.EULER20" />
-        <item index="4" class="java.lang.String" itemvalue="Application.EULER19" />
+        <item index="0" class="java.lang.String" itemvalue="Application.EULER23" />
+        <item index="1" class="java.lang.String" itemvalue="Application.EULER22" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.EULER21" />
+        <item index="4" class="java.lang.String" itemvalue="Application.EULER20" />
       </list>
     </recent_temporary>
   </component>
@@ -768,7 +770,7 @@
       <workItem from="1474251749293" duration="7423000" />
       <workItem from="1474335923315" duration="2742000" />
       <workItem from="1474366292213" duration="9301000" />
-      <workItem from="1474421971011" duration="1687000" />
+      <workItem from="1474421971011" duration="6456000" />
     </task>
     <task id="LOCAL-00001" summary="设计算法除了时间和空间，还应多考虑扩展性，即使牺牲前二者">
       <created>1473834866188</created>
@@ -794,17 +796,23 @@
       <option name="project" value="LOCAL" />
       <updated>1474264359045</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="对流操作应更加熟悉">
+      <created>1474423688344</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1474423688344</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125873000" />
+    <option name="totallyTimeSpent" value="130642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1382" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="0" width="1382" height="728" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24035087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24035087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -815,7 +823,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20526315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20526315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -852,7 +860,8 @@
     <MESSAGE value="时间复杂度O(n)" />
     <MESSAGE value="日期存成“年-月”的形式，用30ms，直接两层int遍历是7ms，答案中有人直接1200/7=171，不懂" />
     <MESSAGE value="list的set方法之前很少用" />
-    <option name="LAST_COMMIT_MESSAGE" value="list的set方法之前很少用" />
+    <MESSAGE value="对流操作应更加熟悉" />
+    <option name="LAST_COMMIT_MESSAGE" value="对流操作应更加熟悉" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -863,13 +872,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/EULER8/EULER8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1265" max-vertical-offset="1426">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/EULER13/EULER13.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2645">
@@ -1201,14 +1203,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EULER21/EULER21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="668" max-vertical-offset="1196">
-          <caret line="44" column="50" selection-start-line="43" selection-start-column="8" selection-end-line="44" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="828">
@@ -1219,11 +1213,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/EULER21/EULER21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="1196">
+          <caret line="34" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/EULER22/EULER22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5959079" vertical-offset="463" max-vertical-offset="2047">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="808" max-vertical-offset="2047">
+          <caret line="40" column="50" selection-start-line="39" selection-start-column="8" selection-end-line="40" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EULER23/EULER23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3917275" vertical-offset="483" max-vertical-offset="1909">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1401#1410#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
