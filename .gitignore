@@ -1,0 +1,16 @@
+out/
+src/.idea/.name
+src/.idea/compiler.xml
+src/.idea/copyright/profiles_settings.xml
+src/.idea/encodings.xml
+src/.idea/misc.xml
+src/.idea/modules.xml
+src/.idea/scopes/scope_settings.xml
+src/.idea/src.iml
+src/.idea/vcs.xml
+src/.idea/workspace.xml
+src/Klotski/Hero.class
+src/Klotski/Klotski.class
+src/Test.java
+.idea/copyright/profiles_settings.xml
+.idea/scopes/scope_settings.xml
